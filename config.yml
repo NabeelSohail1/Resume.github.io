@@ -45,35 +45,39 @@ params:
       url: "  https://anothersocial.com"
 
   workexp:
-    - jobTitle: Job With Red Title
-      color: red
-      company: '-' 
-      location: somewhere
-      date: August 2010 - Present
-      description: Some description about this red title job
+    - jobTitle: it security compliance intern
+      color: blue
+      company: 'national futures association' 
+      location: chicago, il
+      date: sept 2023 - dec 2023
+      description: compliance and things
 
-    - jobTitle: Job with purple title
-      color: purple
-      company: '-'
-      location: somewhere elese
-      date: July 2000  - July 2010
-      description: Some description about this purple job
+    - jobTitle: cybersecurity analyst intern - insider threat program
+      color: orange
+      company: 'discover financial services'
+      location: riverwoods, il
+      date: june 2023 - aug 2023
+      description: testing/reviewing internal security controls
 
-    - jobTitle: Job with default color title
-      company: '-'
-      location: anywhere
-      date: July 2008 - 2010
-      description: Description about this default color job
+    - jobTitle: national it - data center/cybersecurity intern
+      color: teal
+      company: 'aldi usa'
+      location: aurora, il
+      date: june 2022 - may 2023
+      description: upgrading and securing stores across the US
 
+    - jobTitle: it consulting intern
+      color: white
+      company: 'gate3, llc'
+      location: elk grove village, il
+      date: aug 2019 - dec 2019
+      description: learning about IT and computer science
+      
   education:
-   - courseName: Red Color training
+   - courseName: depaul university
      color: red
-     date: June 2019 - July 2019
-     description: Descrption about red color trianing
-
-   - courseName: Default color training
-     date: Sept 2004 - Jun 2008
-     #description: There is no need for description
+     date: aug 2020 - june 2024
+     description: bachelor's in cybersecurity, minor in computer science
 
   skills:
     - name: Skill 1
@@ -101,14 +105,19 @@ params:
       description: Description
 
   languages:
-    - name: English
-      color: Blue
-      percentage: 50
-      #description: 
+    - name: english
+      color: green
+      percentage: 100
+      description: hi
 
-    - name: Gibberish
+    - name: urdu
+      percentage: 100
+      description: bilingual
+      
+    - name: gibberish
       percentage: 100
       description: pasghettipigglywiggly
+      
 
 
   projects:
