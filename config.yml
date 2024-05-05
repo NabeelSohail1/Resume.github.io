@@ -1,7 +1,7 @@
 ## Example Config file
-BaseURL: ""
+BaseURL: "https://nabeel.fun"
 #theme: "terminalCV"
-title: "terminalCV"
+title: "nab's resume"
 
 params:
   description: "4s3ti cv terminal format"
@@ -14,18 +14,18 @@ params:
 # exitLocation: 'about:blank'
 # hidesource: true
   greeting: | 
-    Hi there! You've reached Nabeel's online resume.
+    hi there, you've reached nabeel's online resume!
 
 
     Type 'help' for a list of available commands
 
 
   whois: 
-      name: "Nabeel Sohail"
+      name: "nabeel sohail"
       profession: "N/A"
-      location: "Chicago, Illinois"
+      location: "chicago, illinois"
       email: "hello@nabeel.fun"
-      homelink: "http://nabeel.fun"
+      homelink: "https://nabeel.fun"
       description: |
               Here you can write something catchy about yourself
 
