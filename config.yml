@@ -5,8 +5,8 @@ title: "nab's resume"
 
 params:
   description: "4s3ti cv terminal format"
-  prompt: "newuser@terminalcv"
-# promptColor: grey
+  prompt: "stranger@terminalcv"
+# promptColor: #39FF14
 # promptSimbols: ":~$"
 # promptSimbolsColor: grey
 # startxLocation: https://example.com
