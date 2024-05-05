@@ -1,5 +1,5 @@
 ## Example Config file
-BaseURL: "https://NabeelSohail1.github.io/Resume.github.io"
+BaseURL: ""
 #theme: "terminalCV"
 title: "terminalCV"
 
@@ -14,18 +14,18 @@ params:
 # exitLocation: 'about:blank'
 # hidesource: true
   greeting: | 
-    Welcome to my online resume
+    Hi there! You've reached Nabeel's online resume.
 
 
     Type 'help' for a list of available commands
 
 
   whois: 
-      name: "John Doe"
-      profession: "Unknown"
-      location: "Somewhere"
-      email: "foo@someemail.com"
-      homelink: "https://myHomePage.com"
+      name: "Nabeel Sohail"
+      profession: "N/A"
+      location: "Chicago, Illinois"
+      email: "hello@nabeel.fun"
+      homelink: "http://nabeel.fun"
       description: |
               Here you can write something catchy about yourself
 
