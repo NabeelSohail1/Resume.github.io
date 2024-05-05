@@ -6,9 +6,9 @@ title: "nab's resume"
 params:
   description: "4s3ti cv terminal format"
   prompt: "stranger@terminalcv"
-# promptColor: #39FF14
+# promptColor: green
 # promptSimbols: ":~$"
-# promptSimbolsColor: grey
+# promptSimbolsColor: green
 # startxLocation: https://example.com
 # hideSocialName: true
 # exitLocation: 'about:blank'
