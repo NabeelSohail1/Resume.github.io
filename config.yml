@@ -1,14 +1,14 @@
 ## Example Config file
 BaseURL: "https://nabeel.fun"
 #theme: "terminalCV"
-title: "nab's resume"
+title: "nabeel's resume"
 
 params:
   description: "4s3ti cv terminal format"
   prompt: "stranger@terminalcv"
-# promptColor: green
+  promptColor: Green
 # promptSimbols: ":~$"
-# promptSimbolsColor: green
+  promptSimbolsColor: Green
 # startxLocation: https://example.com
 # hideSocialName: true
 # exitLocation: 'about:blank'
@@ -17,7 +17,7 @@ params:
     hi there, you've reached nabeel's online resume!
 
 
-    Type 'help' for a list of available commands
+    type 'help' for a list of available commands
 
 
   whois: 
@@ -32,7 +32,7 @@ params:
   social:
     ## IF you want to keep them aligned just add spaces
     - name: "github"
-      url: "          https://github.com"
+      url: "          https://github.com/NabeelSohail1"
     - name: "facebook"
       url: "        https://facebook.com"
     - name: "myspace"
