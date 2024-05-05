@@ -44,7 +44,7 @@ params:
     - name: "Another social"
       url: "  https://anothersocial.com"
 
-  workexp:
+  work:
     - jobTitle: it security compliance intern
       color: blue
       company: 'national futures association' 
@@ -75,7 +75,7 @@ params:
       
   education:
    - courseName: depaul university
-     color: red
+     color: blue
      date: aug 2020 - june 2024
      description: bachelor's in cybersecurity, minor in computer science
 
